@@ -1,4 +1,3 @@
-```markdown
 # Lab | Container Insights with AKS: A Hands-On Lab Using Azure CLI
 
 ## Overview
