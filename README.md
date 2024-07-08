@@ -84,6 +84,7 @@ Monitor the logs in the Log Analytics Workspace.
    ```kql
    ContainerLogV2
    | limit 10
+   
    ```
 
 ### 7. Optional: Clean Up Resources
@@ -97,4 +98,4 @@ az group delete --name akscontainerinsightsrg-westus --yes --no-wait
 
 ## Provide Feedback
 We value your feedback! Please let us know if you have any suggestions or comments about this lab.
-```
+
